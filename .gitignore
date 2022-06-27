@@ -1,0 +1,10 @@
+./Jul2020/*.log
+./Jul2020/*.aux
+/**/*.out
+/**/*.aux
+/**/*.log
+/**/*.pdf
+/**/cv.synctex.gz
+/**/*.fdb_latexmk  
+/**/*.fls
+with_picture/cv.pdf
